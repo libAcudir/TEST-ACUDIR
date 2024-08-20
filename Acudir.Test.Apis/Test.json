@@ -1,23 +1,26 @@
-﻿[
+[
   {
+    "Id": 1,
     "NombreCompleto": "Ramon Perez",
-    "Edad": "45",
+    "Edad": 456,
     "Domicilio": "Av Segurola 1445",
     "Telefono": "4533542",
     "Profesion": "Escritor"
   },
   {
+    "Id": 2,
     "NombreCompleto": "Rita Pavone",
-    "Edad": "78",
+    "Edad": 78,
     "Domicilio": "Mercedes 4112",
     "Telefono": "45333442",
     "Profesion": "Doctora"
   },
   {
+    "Id": 3,
     "NombreCompleto": "Pedro Franco",
-    "Edad": "34",
+    "Edad": 34,
     "Domicilio": "Camarones 2343",
     "Telefono": "44565432",
     "Profesion": "Programador"
   }
-]  
+]
