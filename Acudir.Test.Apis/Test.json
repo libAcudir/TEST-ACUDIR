@@ -1,23 +1,93 @@
-﻿[
+[
   {
     "NombreCompleto": "Ramon Perez",
-    "Edad": "45",
+    "Edad": 45,
     "Domicilio": "Av Segurola 1445",
     "Telefono": "4533542",
     "Profesion": "Escritor"
   },
   {
     "NombreCompleto": "Rita Pavone",
-    "Edad": "78",
+    "Edad": 78,
     "Domicilio": "Mercedes 4112",
     "Telefono": "45333442",
     "Profesion": "Doctora"
   },
   {
     "NombreCompleto": "Pedro Franco",
-    "Edad": "34",
+    "Edad": 85,
     "Domicilio": "Camarones 2343",
     "Telefono": "44565432",
     "Profesion": "Programador"
+  },
+  {
+    "NombreCompleto": "string",
+    "Edad": 55,
+    "Domicilio": "string",
+    "Telefono": "string",
+    "Profesion": "string"
+  },
+  {
+    "NombreCompleto": "Clara Sosa",
+    "Edad": 26,
+    "Domicilio": "Rein 3632",
+    "Telefono": "123456",
+    "Profesion": "QA"
+  },
+  {
+    "NombreCompleto": "Maria Sosa",
+    "Edad": 26,
+    "Domicilio": "Rein 3632",
+    "Telefono": "123456",
+    "Profesion": "QA"
+  },
+  {
+    "NombreCompleto": "Lucas Segovia",
+    "Edad": 26,
+    "Domicilio": "Brown 3632",
+    "Telefono": "123456",
+    "Profesion": "Dev"
+  },
+  {
+    "NombreCompleto": "Maria Pela",
+    "Edad": 25,
+    "Domicilio": "Rey 789",
+    "Telefono": "123456",
+    "Profesion": "QA"
+  },
+  {
+    "NombreCompleto": "Claudio Pela",
+    "Edad": 45,
+    "Domicilio": "Rey 749",
+    "Telefono": "12345456",
+    "Profesion": "QA"
+  },
+  {
+    "NombreCompleto": "Ricardo Mon",
+    "Edad": 25,
+    "Domicilio": "Rel 458",
+    "Telefono": "-5df",
+    "Profesion": "Analista"
+  },
+  {
+    "NombreCompleto": "Rey Remo",
+    "Edad": 15,
+    "Domicilio": "Cel 456",
+    "Telefono": "-JKJ",
+    "Profesion": "QA"
+  },
+  {
+    "NombreCompleto": "Rey Remo",
+    "Edad": -5,
+    "Domicilio": "Cel 456",
+    "Telefono": "-JKJ",
+    "Profesion": "QA"
+  },
+  {
+    "NombreCompleto": "Reyna Liv",
+    "Edad": 45,
+    "Domicilio": "Sip 7859",
+    "Telefono": "78546",
+    "Profesion": "Diseñadora"
   }
-]  
+]

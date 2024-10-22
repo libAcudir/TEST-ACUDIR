@@ -1,7 +1,42 @@
-﻿################################################################################
-# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
-################################################################################
+# Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-/.vs/Acudir.Test
-/Acudir.Test.Apis/bin
-/Acudir.Test.Apis/obj
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.pdb
+*.cache
+*.mdb
+*.csproj.user
+*.dbmdl
+*.jfm
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+.nuget/packages/
+
+# Logs
+*.log
+*.nlog
+*.log4net
+
+# Azure DevOps
+.vsts/
+.ado/
+
+# Otros archivos innecesarios
+TestResults/
